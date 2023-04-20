@@ -1,0 +1,12 @@
+{
+  "name": "webview-video-player",
+  "version": "1.0.0",
+  "description": "Webview video player dependencies for react-native applications",
+  "main": "index.js",
+  "author": "Sparkfabrik",
+  "license": "MIT",
+  "dependencies": {
+    "video.js": "7.21.4",
+    "videojs-ima": "2.1.0"
+  }
+}
